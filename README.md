@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaishnavi-r-881498307 " target="_blank">
+  <a href="https://www.linkedin.com/in/vaishnavi-r-881498307" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vaishnavi25045@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href=" https://vaishnavi-portfolio-website.netlify.app/" target="_blank">
+  <a href="https://vaishnavi-portfolio-website.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
@@ -31,7 +31,12 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,data structures and algorithms, AI and ML,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2E9EF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-2E9EF7?style=for-the-badge" />
 </p>
 
 ---
