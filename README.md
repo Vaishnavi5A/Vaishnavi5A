@@ -68,6 +68,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:00C7B7&height=3"/>
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi5A&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:00C7B7&height=3"/>
+
 ### 🐍 Contribution Graph
 
 <p align="center">
