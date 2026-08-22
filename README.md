@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi.R</h1>
-<h3 align="center">Python FullStack Developer | AI/ML Enthusiast | Building GuestLens 🚀</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:00C7B7&height=200&section=header&text=Hi%20There!%20I'm%20Vaishnavi%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20FullStack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+FullStack+Developer;AI%2FML+Enthusiast;Building+GuestLens+%F0%9F%9A%80;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+GuestLens+%F0%9F%9A%80;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,16 +16,17 @@
   </a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:00C7B7&height=3"/>
 
 ### 🚀 About Me
+
 - 🔭 Currently working on **GuestLens** — an AI-powered guest review classifier and analytics dashboard
 - 🌱 Learning more about **AI/ML and Data Analytics**
 - 💻 I build **Full Stack applications** using Python, JavaScript, HTML & CSS
 - 📫 Reach me at: **vaishnavi25045@gmail.com**
 - ⚡ Fun fact: I love turning ideas into working products!
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:00C7B7&height=3"/>
 
 ### 🛠️ Tech Stack
 
@@ -39,30 +39,45 @@
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-2E9EF7?style=for-the-badge" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Vaishnavi5A&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vaishnavi5A&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vaishnavi5A&theme=radical&hide_border=true" />
-</p>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:00C7B7&height=3"/>
 
 ### 📌 Featured Projects
 
-- **[GuestLens](https://github.com/Vaishnavi5A/guestlens)** — AI-powered guest review classifier and analytics dashboard for eco-homestays
-- **[Vaishnavi-portfolio](https://github.com/Vaishnavi5A/Vaishnavi-portfolio)** — Personal professional portfolio built with HTML, CSS, JavaScript & Python
-- **[AI-ASSISTANT-USING-OLLAMA](https://github.com/Vaishnavi5A/AI-ASSISTANT-USING-OLLAMA)** — AI assistant built using Ollama
-- **[Employee-Attrition-Prediction-System](https://github.com/Vaishnavi5A/Employee-Attrition-Prediction-System)** — ML-based system to predict employee attrition using HR analytics data
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h4>🏡 <a href="https://github.com/Vaishnavi5A/guestlens">GuestLens</a></h4>
+      AI-powered guest review classifier and analytics dashboard for eco-homestays
+    </td>
+    <td width="50%">
+      <h4>💼 <a href="https://github.com/Vaishnavi5A/Vaishnavi-portfolio">Vaishnavi-portfolio</a></h4>
+      Personal professional portfolio built with HTML, CSS, JavaScript & Python
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🤖 <a href="https://github.com/Vaishnavi5A/AI-ASSISTANT-USING-OLLAMA">AI Assistant (Ollama)</a></h4>
+      AI assistant chatbot built using Ollama for local LLM inference
+    </td>
+    <td width="50%">
+      <h4>📊 <a href="https://github.com/Vaishnavi5A/Employee-Attrition-Prediction-System">Employee Attrition Prediction</a></h4>
+      ML-based system to predict employee attrition using HR analytics data
+    </td>
+  </tr>
+</table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:00C7B7&height=3"/>
+
+### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaishnavi5A&label=Profile%20Views&color=2E9EF7&style=flat" alt="Vaishnavi5A" />
+  <img src="https://raw.githubusercontent.com/Vaishnavi5A/Vaishnavi5A/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:00C7B7&height=3"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavi5A&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Vaishnavi5A" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:00C7B7&height=100&section=footer"/>
